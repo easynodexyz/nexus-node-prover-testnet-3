@@ -71,6 +71,7 @@ nexus-network register-node
 > **EasyNode One-Click**: Ready in minutes, fully hosted and maintained for you. No server or CLI skills needed.
 
 ❓ FAQ
+
 What is Nexus Testnet III?
 Testnet III is the latest testing phase of the Nexus network. It introduces enhanced stability, broader access, and new ways to earn NEX Points by contributing compute.
 
