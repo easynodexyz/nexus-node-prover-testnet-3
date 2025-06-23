@@ -1,5 +1,5 @@
 <!--
-SEO Keywords: Nexus node Testnet III, Nexus Prover node, how to install Nexus node, Nexus one-click node setup, EasyNode Nexus, Nexus CLI guide
+SEO Keywords: Nexus node Testnet III, Nexus Prover node, how to install Nexus node, Nexus one-click node setup, EasyNode Nexus, Nexus CLI guide, Nexus node guide, how to run nexus prover, how to run nexus node
 Description: Complete guide to install a Nexus Prover Node on Testnet III using either CLI or EasyNode one-click setup.
 -->
 
@@ -40,7 +40,7 @@ The easiest way to run a Nexus node is to use [EasyNode](https://app.easy-node.x
 
 ## 🧪 Manual Setup – CLI Installation (Linux/Ubuntu)
 
-For advanced users, here’s how to install a Nexus node manually.
+For advanced users, here’s how to install a Nexus node manually on your server.
 
 ### 1. Install Dependencies
 
@@ -70,16 +70,28 @@ nexus-network register-node
 > **Manual CLI Setup**: Requires Linux knowledge, takes ~1 hour, self-hosted server, manual updates and setup.  
 > **EasyNode One-Click**: Ready in minutes, fully hosted and maintained for you. No server or CLI skills needed.
 
-❓ FAQ
+## ❓ FAQ
 
-What is Nexus Testnet III?
-Testnet III is the latest testing phase of the Nexus network. It introduces enhanced stability, broader access, and new ways to earn NEX Points by contributing compute.
+**What is Nexus Testnet III?**  
+Testnet III is the latest phase of the Nexus network. It offers improved stability, broader access, and new reward opportunities like earning NEX Points for compute contributions.
 
-How do I earn NEX Points?
-By running a Prover node and linking your wallet to app.nexus.xyz. More computation = more points.
+**How do I earn NEX Points?**  
+By running a Nexus Prover node and linking your wallet at [app.nexus.xyz](https://app.nexus.xyz). The more compute you contribute, the more points you earn.
 
-Can I run multiple nodes?
-Yes! You can connect multiple devices — desktops, servers, VPS, or browsers — and track them all via one account.
+**Can I run multiple nodes?**  
+Yes! You can connect and manage multiple devices (servers, desktops, laptops, even browsers) under a single Nexus account.
+
+**How long will Testnet III run?**  
+Until the official launch of Nexus Mainnet in Q3 2025. Unlike previous testnets, this one will run for several weeks, giving contributors more time to earn.
+
+**How do I get my Prover ID?**  
+1. Go to [app.nexus.xyz](https://app.nexus.xyz)  
+2. Log in or create your account  
+3. Navigate to **Nodes > Add Node > Add CLI Node**  
+4. Copy your node ID and paste it into your CLI setup
+
+**Why run your Nexus node with EasyNode?**  
+Because we manage everything — server setup, monitoring, updates, and uptime. Your node runs 24/7 with zero hassle.
 
 ---
 
